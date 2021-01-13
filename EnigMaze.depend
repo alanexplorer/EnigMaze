@@ -1,0 +1,641 @@
+# depslib dependency file v1.0
+1417548095 source:e:\enigmaze 02-12-2014\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+
+1417196066 e:\enigmaze 02-12-2014\hearder files\\colisao_paredes.h
+
+1417463246 e:\enigmaze 02-12-2014\hearder files\\map_1.h
+
+1417463282 e:\enigmaze 02-12-2014\hearder files\\map_2.h
+
+1417463394 e:\enigmaze 02-12-2014\hearder files\\map_3.h
+
+1417463410 e:\enigmaze 02-12-2014\hearder files\\map_4.h
+
+1417463434 e:\enigmaze 02-12-2014\hearder files\\map_5.h
+
+1417463464 e:\enigmaze 02-12-2014\hearder files\\map_6.h
+
+1417463498 e:\enigmaze 02-12-2014\hearder files\\map_7.h
+
+1417463524 e:\enigmaze 02-12-2014\hearder files\\map_8.h
+
+1417463570 e:\enigmaze 02-12-2014\hearder files\\map_9.h
+
+1417463610 e:\enigmaze 02-12-2014\hearder files\\map_10.h
+
+1417463644 e:\enigmaze 02-12-2014\hearder files\\map_11.h
+
+1417463686 e:\enigmaze 02-12-2014\hearder files\\map_12.h
+
+1417463710 e:\enigmaze 02-12-2014\hearder files\\map_13.h
+
+1417463732 e:\enigmaze 02-12-2014\hearder files\\map_14.h
+
+1417463752 e:\enigmaze 02-12-2014\hearder files\\map_15.h
+
+1417463774 e:\enigmaze 02-12-2014\hearder files\\map_16.h
+
+1417477436 e:\enigmaze 02-12-2014\hearder files\\map_final.h
+
+1417478664 e:\enigmaze 02-12-2014\hearder files\\credito.h
+
+1417301556 e:\enigmaze 02-12-2014\hearder files\\status.h
+
+1417196062 e:\enigmaze 02-12-2014\hearder files\\timer.h
+
+1417548173 e:\enigmaze 02-12-2014\hearder files\\menu.h
+
+1417196038 e:\enigmaze 02-12-2014\hearder files\\verrelogio.h
+
+1417373702 e:\enigmaze 02-12-2014\hearder files\\busca_eixo_y.h
+
+1417373824 e:\enigmaze 02-12-2014\hearder files\\busca_eixo_x.h
+
+1417558535 e:\enigmaze 02-12-2014\hearder files\\praia.h
+
+1417558442 e:\enigmaze 02-12-2014\hearder files\\castelo_dentro.h
+
+1417558173 e:\enigmaze 02-12-2014\hearder files\\castelo_fora.h
+
+1417621659 source:c:\users\alan\desktop\enigmaze 02-12-2014\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\colisao_paredes.h
+
+1417631636 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_1.h
+	<math.h>
+
+1417631719 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_2.h
+
+1417631764 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_3.h
+
+1417631801 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_4.h
+
+1417631872 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_5.h
+
+1417631903 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_6.h
+
+1417631965 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_7.h
+
+1417632032 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_8.h
+
+1417632074 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_9.h
+
+1417632117 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_10.h
+
+1417632168 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_11.h
+
+1417632215 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_12.h
+
+1417632251 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_13.h
+
+1417632299 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_14.h
+
+1417632377 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_15.h
+
+1417537446 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_16.h
+
+1417537508 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\credito.h
+
+1417604372 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\timer.h
+
+1417631528 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\busca_eixo_x.h
+
+1417631575 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\praia.h
+
+1417537538 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\castelo_dentro.h
+
+1417577716 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\enigmaze 02-12-2014\hearder files\\percursodotiro.h
+
+1417633706 source:c:\users\alan\desktop\teste\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\teste\hearder files\\colisao_paredes.h
+
+1417709519 c:\users\alan\desktop\teste\hearder files\\map_1.h
+	<math.h>
+
+1417633541 c:\users\alan\desktop\teste\hearder files\\map_2.h
+
+1417640462 c:\users\alan\desktop\teste\hearder files\\map_3.h
+
+1417640481 c:\users\alan\desktop\teste\hearder files\\map_4.h
+
+1417640452 c:\users\alan\desktop\teste\hearder files\\map_5.h
+
+1417640444 c:\users\alan\desktop\teste\hearder files\\map_6.h
+
+1417640513 c:\users\alan\desktop\teste\hearder files\\map_7.h
+
+1417640557 c:\users\alan\desktop\teste\hearder files\\map_8.h
+
+1417640581 c:\users\alan\desktop\teste\hearder files\\map_9.h
+
+1417640609 c:\users\alan\desktop\teste\hearder files\\map_10.h
+
+1417640641 c:\users\alan\desktop\teste\hearder files\\map_11.h
+
+1417640666 c:\users\alan\desktop\teste\hearder files\\map_12.h
+
+1417640705 c:\users\alan\desktop\teste\hearder files\\map_13.h
+
+1417640742 c:\users\alan\desktop\teste\hearder files\\map_14.h
+
+1417640767 c:\users\alan\desktop\teste\hearder files\\map_15.h
+
+1417640786 c:\users\alan\desktop\teste\hearder files\\map_16.h
+
+1417537508 c:\users\alan\desktop\teste\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\teste\hearder files\\credito.h
+
+1417640814 c:\users\alan\desktop\teste\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\teste\hearder files\\timer.h
+
+1417631528 c:\users\alan\desktop\teste\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\teste\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\teste\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\teste\hearder files\\busca_eixo_x.h
+
+1417633459 c:\users\alan\desktop\teste\hearder files\\praia.h
+
+1417537538 c:\users\alan\desktop\teste\hearder files\\castelo_dentro.h
+
+1417577716 c:\users\alan\desktop\teste\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\teste\hearder files\\percursodotiro.h
+
+1417633706 source:c:\users\alan\desktop\teste - cópia\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\teste - cópia\hearder files\\colisao_paredes.h
+
+1417717052 c:\users\alan\desktop\teste - cópia\hearder files\\map_1.h
+	<math.h>
+
+1417717032 c:\users\alan\desktop\teste - cópia\hearder files\\map_2.h
+
+1417625070 c:\users\alan\desktop\teste - cópia\hearder files\\map_3.h
+
+1417625072 c:\users\alan\desktop\teste - cópia\hearder files\\map_4.h
+
+1417717063 c:\users\alan\desktop\teste - cópia\hearder files\\map_5.h
+
+1417625078 c:\users\alan\desktop\teste - cópia\hearder files\\map_6.h
+
+1417625082 c:\users\alan\desktop\teste - cópia\hearder files\\map_7.h
+
+1417625084 c:\users\alan\desktop\teste - cópia\hearder files\\map_8.h
+
+1417625088 c:\users\alan\desktop\teste - cópia\hearder files\\map_9.h
+
+1417625040 c:\users\alan\desktop\teste - cópia\hearder files\\map_10.h
+
+1417625044 c:\users\alan\desktop\teste - cópia\hearder files\\map_11.h
+
+1417625048 c:\users\alan\desktop\teste - cópia\hearder files\\map_12.h
+
+1417625050 c:\users\alan\desktop\teste - cópia\hearder files\\map_13.h
+
+1417625054 c:\users\alan\desktop\teste - cópia\hearder files\\map_14.h
+
+1417625056 c:\users\alan\desktop\teste - cópia\hearder files\\map_15.h
+
+1417625062 c:\users\alan\desktop\teste - cópia\hearder files\\map_16.h
+
+1417713699 c:\users\alan\desktop\teste - cópia\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\teste - cópia\hearder files\\credito.h
+
+1417717508 c:\users\alan\desktop\teste - cópia\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\teste - cópia\hearder files\\timer.h
+
+1417716727 c:\users\alan\desktop\teste - cópia\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\teste - cópia\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\teste - cópia\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\teste - cópia\hearder files\\busca_eixo_x.h
+
+1417717039 c:\users\alan\desktop\teste - cópia\hearder files\\praia.h
+
+1417625026 c:\users\alan\desktop\teste - cópia\hearder files\\castelo_dentro.h
+
+1417625028 c:\users\alan\desktop\teste - cópia\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\teste - cópia\hearder files\\percursodotiro.h
+
+1417633706 source:c:\users\alan\desktop\enigmaze_salvo\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\enigmaze_salvo\hearder files\\colisao_paredes.h
+
+1417717052 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_1.h
+	<math.h>
+
+1417717032 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_2.h
+
+1417625070 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_3.h
+
+1417625072 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_4.h
+
+1417717063 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_5.h
+
+1417625078 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_6.h
+
+1417625082 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_7.h
+
+1417625084 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_8.h
+
+1417625088 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_9.h
+
+1417625040 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_10.h
+
+1417625044 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_11.h
+
+1417625048 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_12.h
+
+1417625050 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_13.h
+
+1417625054 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_14.h
+
+1417625056 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_15.h
+
+1417625062 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_16.h
+
+1417713699 c:\users\alan\desktop\enigmaze_salvo\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\enigmaze_salvo\hearder files\\credito.h
+
+1417717508 c:\users\alan\desktop\enigmaze_salvo\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\enigmaze_salvo\hearder files\\timer.h
+
+1417716727 c:\users\alan\desktop\enigmaze_salvo\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\enigmaze_salvo\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\enigmaze_salvo\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\enigmaze_salvo\hearder files\\busca_eixo_x.h
+
+1417717039 c:\users\alan\desktop\enigmaze_salvo\hearder files\\praia.h
+
+1417625026 c:\users\alan\desktop\enigmaze_salvo\hearder files\\castelo_dentro.h
+
+1417625028 c:\users\alan\desktop\enigmaze_salvo\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\enigmaze_salvo\hearder files\\percursodotiro.h
+
+1417633706 source:c:\users\alan\desktop\enigmaze\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\enigmaze\hearder files\\colisao_paredes.h
+
+1417717052 c:\users\alan\desktop\enigmaze\hearder files\\map_1.h
+	<math.h>
+
+1417733078 c:\users\alan\desktop\enigmaze\hearder files\\map_2.h
+
+1417625070 c:\users\alan\desktop\enigmaze\hearder files\\map_3.h
+
+1417625072 c:\users\alan\desktop\enigmaze\hearder files\\map_4.h
+
+1417734850 c:\users\alan\desktop\enigmaze\hearder files\\map_5.h
+
+1417625078 c:\users\alan\desktop\enigmaze\hearder files\\map_6.h
+
+1417625082 c:\users\alan\desktop\enigmaze\hearder files\\map_7.h
+
+1417733999 c:\users\alan\desktop\enigmaze\hearder files\\map_8.h
+
+1417625088 c:\users\alan\desktop\enigmaze\hearder files\\map_9.h
+
+1417625040 c:\users\alan\desktop\enigmaze\hearder files\\map_10.h
+
+1417625044 c:\users\alan\desktop\enigmaze\hearder files\\map_11.h
+
+1417625048 c:\users\alan\desktop\enigmaze\hearder files\\map_12.h
+
+1417625050 c:\users\alan\desktop\enigmaze\hearder files\\map_13.h
+
+1417625054 c:\users\alan\desktop\enigmaze\hearder files\\map_14.h
+
+1417625056 c:\users\alan\desktop\enigmaze\hearder files\\map_15.h
+
+1417625062 c:\users\alan\desktop\enigmaze\hearder files\\map_16.h
+
+1417736718 c:\users\alan\desktop\enigmaze\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\enigmaze\hearder files\\credito.h
+
+1417734134 c:\users\alan\desktop\enigmaze\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\enigmaze\hearder files\\timer.h
+
+1417716727 c:\users\alan\desktop\enigmaze\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\enigmaze\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\enigmaze\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\enigmaze\hearder files\\busca_eixo_x.h
+
+1417736826 c:\users\alan\desktop\enigmaze\hearder files\\praia.h
+
+1417625026 c:\users\alan\desktop\enigmaze\hearder files\\castelo_dentro.h
+
+1417625028 c:\users\alan\desktop\enigmaze\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\enigmaze\hearder files\\percursodotiro.h
+
+1417633706 source:c:\users\alan\desktop\enigmaze 04-12-14\main.c
+	"allegro.h"
+	<time.h>
+	"Hearder files\\colisao_paredes.h"
+	"Hearder files\\map_1.h"
+	"Hearder files\\map_2.h"
+	"Hearder files\\map_3.h"
+	"Hearder files\\map_4.h"
+	"Hearder files\\map_5.h"
+	"Hearder files\\map_6.h"
+	"Hearder files\\map_7.h"
+	"Hearder files\\map_8.h"
+	"Hearder files\\map_9.h"
+	"Hearder files\\map_10.h"
+	"Hearder files\\map_11.h"
+	"Hearder files\\map_12.h"
+	"Hearder files\\map_13.h"
+	"Hearder files\\map_14.h"
+	"Hearder files\\map_15.h"
+	"Hearder files\\map_16.h"
+	"Hearder files\\map_final.h"
+	"Hearder files\\credito.h"
+	"Hearder files\\status.h"
+	"Hearder files\\timer.h"
+	"Hearder files\\menu.h"
+	"Hearder files\\VerRelogio.h"
+	"Hearder files\\busca_eixo_y.h"
+	"Hearder files\\busca_eixo_x.h"
+	"Hearder files\\praia.h"
+	"Hearder files\\castelo_dentro.h"
+	"Hearder files\\castelo_fora.h"
+	"Hearder files\\percursodotiro.h"
+
+1417537560 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\colisao_paredes.h
+
+1417717052 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_1.h
+	<math.h>
+
+1417733078 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_2.h
+
+1417625070 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_3.h
+
+1417625072 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_4.h
+
+1417734850 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_5.h
+
+1417625078 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_6.h
+
+1417625082 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_7.h
+
+1417733999 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_8.h
+
+1417625088 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_9.h
+
+1417625040 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_10.h
+
+1417625044 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_11.h
+
+1417625048 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_12.h
+
+1417625050 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_13.h
+
+1417625054 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_14.h
+
+1417625056 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_15.h
+
+1417625062 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_16.h
+
+1417736718 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\map_final.h
+
+1417537478 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\credito.h
+
+1417734134 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\status.h
+
+1417537556 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\timer.h
+
+1417716727 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\menu.h
+
+1417537518 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\verrelogio.h
+
+1417603258 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\busca_eixo_y.h
+
+1417603272 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\busca_eixo_x.h
+
+1417736826 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\praia.h
+
+1417625026 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\castelo_dentro.h
+
+1417625028 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\castelo_fora.h
+
+1417625081 c:\users\alan\desktop\enigmaze 04-12-14\hearder files\\percursodotiro.h
+
